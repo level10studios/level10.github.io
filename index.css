@@ -1,0 +1,104 @@
+* {
+    font-family: Trebuchet MS, sans-serif;
+  }
+   
+   
+  h1 {
+    color: SeaGreen;
+  }
+   
+   
+  p, li {
+    font-size: 18px;
+  }
+   
+   
+  a {
+    text-decoration: none;
+  }
+
+  .divs{
+    margin: 20px 10px;
+    padding: 20px;
+    border: solid gray;
+  }
+
+  .div{
+    display: inline-block;
+    margin-left: 30px;
+  }
+
+
+
+  .colorBlue{
+    margin: 20px 10px;
+    padding: 20px;
+    border: solid #2d5dcc;
+    background-color: #2d5dcc;
+    color: white;
+    text-align: center;
+
+  }
+  .colorPink{
+    margin: 20px 10px;
+    padding: 20px;
+    border: solid #d957d9;
+    background-color: #d957d9;
+    color: white;
+    text-align: center;
+
+  }
+  .colorMintGreen{
+    margin: 20px 10px;
+    padding: 20px;
+    border: solid #4fe0b0;
+    background-color: #4fe0b0;
+    color: black;
+    text-align: center;
+
+  }
+  .colorBeige{
+    margin: 20px 10px;
+    padding: 20px;
+    border: solid #efd9ca;
+    background-color: #efd9ca;
+    color: black;
+    text-align: center;
+
+  }
+
+  .courier{ 
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+
+  .Franklin{ 
+    font-family: 'Franklin Gothic Medium';
+
+  }
+
+  .Gill{ 
+    font-family: 'Gill Sans MT';
+
+  }
+
+  .h1{
+    Font-weight: bold;
+    Font-size: 50px;
+    font-family: 'Lucida Sans', sans-serif;
+  }
+
+  .h2{
+    Font-weight: bold;
+    Font-size: 35px;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+  .p{
+    Font-weight: 400;
+    Font-size: 25px;
+    font-family: 'Segoe UI', sans-serif;
+  }
+
+
+
